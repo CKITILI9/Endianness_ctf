@@ -34,4 +34,4 @@
 
 
 #Flag
-picoCTF{[REDACTED]}
+-picoCTF{[REDACTED]}
