@@ -30,3 +30,8 @@
 - Endianness is mostly about bytes and not letters. Computers read and process numbers.
 - Hex values let us read binary in an easy way.
 - The challenge connected the dots between: text, hex values, and byte order.
+
+
+
+#Flag
+picoCTF{[REDACTED]}
